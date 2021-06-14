@@ -36,7 +36,7 @@ C -> S x C ·
 
 ![](exam_1d.png)
 
-**e)** The grammar is LR(0), since the LR(0) parser table, presented below, has no shift / reduce or reduce / reduce conflicts.
+**e)** The grammar is not LR(0), since the LR(0) parser table, presented below, has shift / reduce conflicts.
 
 ![](exam_1e.png)
 

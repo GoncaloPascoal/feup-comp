@@ -63,7 +63,7 @@ is `LL(2)`. The `LL(1)` parser table for it is:
         </tr>
         <tr>
             <td>S</td>
-            <td><code>S -&gt; ab<br>S -&gt; ac</code></td>
+            <td><code>S -&gt; ab</code><br><code>S -&gt; ac</code></td>
             <td></td>
             <td></td>
         </tr>
